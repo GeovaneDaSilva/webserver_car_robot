@@ -21,3 +21,7 @@ Follow the steps to be able to configure the project:
 Install Arduino on your machine.
 You need to install the packages that are already in the project, just go to manager packages and install the necessary packages.
 
+### Download the project and walk to the folder => img_products.
+In it you will find all the photos of the products you will need to buy!
+A hug and a lot of luck in your project.
+Please share this repository and write on my Youtube channel to receive news !!!
